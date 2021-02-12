@@ -109,7 +109,6 @@ tag-for-publishing-older-releases: 4.0.6
 published yesterday by typescript-bot <typescript@microsoft.com>
 
 
-/*
 Courtesy:
+---------
 https://angular.io
-*/
