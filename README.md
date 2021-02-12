@@ -1,5 +1,5 @@
-Angular 11:
------------
+Angular 11
+----------
 
 $ node --version
 v14.15.5
